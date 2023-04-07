@@ -1,6 +1,6 @@
 ---
 header_brand: "Island Spirit PEI, Inc."
-header_tagline_paragraph: "A Blue Ocean Strategy, bringing value innovation Prince Edward Island.. We're developing a healthy market and habitat for wild island oysters."
+header_tagline_paragraph: "A Blue Ocean Strategy for Prince Edward Island wild oyster industry. We've developed nutraceutical grade products from commerical grade oyster."
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
@@ -10,9 +10,9 @@ header_button_more:
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
-# The Future - Today!
+# Want to talk about the health benefits of wild island oyster?
 
-Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
+We sure do!
 
 ---
 
@@ -22,29 +22,13 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 
 ---
 
-# Prototype
+# Oyster Product Development
 
-You guessed it! We put our money where our mouth is. This is what we accomplished so far.
+
 
 ![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
 
-Check out this sweet preview. Impressed much, are you?
-
----
-
-# Imprint & Privacy Policy
-
-Let's keep it simple. This is our contact information:
-
-Jane Doe
-1093 Simpson Square
-May 73851, OK
-USA
-
-E-mail: jane@doe.net
-Phone: 580-689-0577
-
-We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form or the newsletter sign up this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
+You can't go back there yet. There's a lot of regulations for processing and health claims.. But I can say, "It's fisherman approved for healthy seamen." 
 
 ---
 
