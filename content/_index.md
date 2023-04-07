@@ -1,6 +1,6 @@
 ---
-header_brand: "Builders Of The Future, Inc."
-header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
+header_brand: "Island Spirit PEI, Inc."
+header_tagline_paragraph: "A Blue Ocean Strategy, bringing value innovation Prince Edward Island.. We're developing a healthy market and habitat for wild island oysters."
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"

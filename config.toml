@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://islandspiritpei.com"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-product-launch"
 
 # The "title" of your website
-title = "Builders Of The Future, Inc."
+title = "Island Spirit PEI, Inc."
 
 # Render line-breaks in .md-files as line-breaks in HTML.
 # This is e.g. useful for rendering a multi-line address.
